@@ -61,7 +61,7 @@
                                  SeriesItemTemplateSelector="{StaticResource seriesTemplateSelector}" 
                                  DrillDownStateChanged="XYDiagram2D_DrillDownStateChanged">
                     <dxc:XYDiagram2D.SeriesItemsSource>
-                        <dxc:HierarchicalObjectStructureDataAdapter 
+                        <dxc:HierarchicalDataAdapter 
                             DataSource="{Binding Branches}"
                             ChildrenSelector="{StaticResource childrenSelector}"
                             BreadcrumbTextProvider="{StaticResource textProvider}"/>
