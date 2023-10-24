@@ -1,7 +1,6 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/179649777/19.1.1%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T830441)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
+
 # How to: Provide Data for the Drill Mode
-This example illustrates how to use the HierarchicalDataAdapter class to enable the Chart Drill mode.
+
+We continue to enhance DevExpress-related learning materials/examples on GitHub. Unfortunately, this example lacked user interest and its code base is now obsolete.
+
+If the use-case outlined in this example is of importance to you (or if you require additional guidance), please submit a support ticket via the [DevExpress Support Center](https://supportcenter.devexpress.com/ticket/create?followUpTo=T830441). We will be happy to follow-up.
